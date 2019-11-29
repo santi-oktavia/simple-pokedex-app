@@ -1,0 +1,17 @@
+th, td {
+    padding: 4px 10px;
+    text-transform: capitalize;
+}
+.name {
+    text-transform: uppercase;
+    text-align: center ;
+}
+.data-pokedex th{
+    color: #737373;
+    font-size: 17px;
+    font-weight: normal;
+    text-align: right;
+}
+.states-pokedex {
+    text-transform: capitalize;
+}
